@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 1546072,
       "digest": "sha256:43bc90e8875f10790e2e69adba5dcc48cff393d0ebc59b9947449feb349b42e8",
-      "download_count": 2856,
+      "download_count": 2862,
       "created_at": "2026-04-01T12:58:12Z",
       "updated_at": "2026-04-01T12:58:12Z",
       "browser_download_url": "https://github.com/ynqa/jnv/releases/download/v0.7.1/jnv-x86_64-unknown-linux-musl.tar.xz"
