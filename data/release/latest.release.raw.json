@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 1080448,
       "digest": "sha256:a66dc820dee8d035108e493efcfba1c92ad313d2b148b359349612c8b966fb41",
-      "download_count": 1173,
+      "download_count": 1177,
       "created_at": "2026-04-01T12:58:10Z",
       "updated_at": "2026-04-01T12:58:11Z",
       "browser_download_url": "https://github.com/ynqa/jnv/releases/download/v0.7.1/jnv-aarch64-apple-darwin.tar.xz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 1290380,
       "digest": "sha256:88b1a1f5cbc703d2f45fec6b8b4a8f9c35e9969c84565c00d27cc84baa0c0da8",
-      "download_count": 771,
+      "download_count": 790,
       "created_at": "2026-04-01T12:58:10Z",
       "updated_at": "2026-04-01T12:58:11Z",
       "browser_download_url": "https://github.com/ynqa/jnv/releases/download/v0.7.1/jnv-aarch64-unknown-linux-gnu.tar.xz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 1256608,
       "digest": "sha256:3bb29e5267a8925da4c19b3b3f31a8c35b19c2703bf292d71ea5e51f2defc3d6",
-      "download_count": 140,
+      "download_count": 143,
       "created_at": "2026-04-01T12:58:11Z",
       "updated_at": "2026-04-01T12:58:12Z",
       "browser_download_url": "https://github.com/ynqa/jnv/releases/download/v0.7.1/jnv-x86_64-apple-darwin.tar.xz"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 1652596,
       "digest": "sha256:f76a635add18586c9473329fb37d2dca831b80d8062dccb4683f69a3bb3de5e6",
-      "download_count": 786,
+      "download_count": 792,
       "created_at": "2026-04-01T12:58:11Z",
       "updated_at": "2026-04-01T12:58:12Z",
       "browser_download_url": "https://github.com/ynqa/jnv/releases/download/v0.7.1/jnv-x86_64-pc-windows-msvc.zip"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 1471832,
       "digest": "sha256:4c3e7368339a2ecbdb4d2bfe2c3ec5f6fc36810bed95425fe05a65200fae8d15",
-      "download_count": 2267,
+      "download_count": 2287,
       "created_at": "2026-04-01T12:58:11Z",
       "updated_at": "2026-04-01T12:58:12Z",
       "browser_download_url": "https://github.com/ynqa/jnv/releases/download/v0.7.1/jnv-x86_64-unknown-linux-gnu.tar.xz"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 1546072,
       "digest": "sha256:43bc90e8875f10790e2e69adba5dcc48cff393d0ebc59b9947449feb349b42e8",
-      "download_count": 2883,
+      "download_count": 2893,
       "created_at": "2026-04-01T12:58:12Z",
       "updated_at": "2026-04-01T12:58:12Z",
       "browser_download_url": "https://github.com/ynqa/jnv/releases/download/v0.7.1/jnv-x86_64-unknown-linux-musl.tar.xz"
