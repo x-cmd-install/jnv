@@ -4,7 +4,7 @@
 
 Interactive JSON filter using jq
 
-![jnv](https://repo.x-cmd.io/jnv.svg)
+![jnv](https://repo.x-cmd.io/jnv.svg?lang=zh)
 
 ## 安装
 
@@ -22,7 +22,31 @@ x install jnv
 - **最新版本**: `v0.7.1` (2026-04-01)
 - **最近提交**: 2026-08-20
 - **Release 含资产**: 20 个
-- **发布时间**: 2026-04-01T12:58:13Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [dist-manifest.json](https://github.com/ynqa/jnv/releases/download/v0.7.1/dist-manifest.json) | 25.1 KiB | `other` |
+| [jnv-aarch64-apple-darwin.tar.xz](https://github.com/ynqa/jnv/releases/download/v0.7.1/jnv-aarch64-apple-darwin.tar.xz) | 1.0 MiB | `native/darwin/arm64` |
+| [jnv-aarch64-apple-darwin.tar.xz.sha256](https://github.com/ynqa/jnv/releases/download/v0.7.1/jnv-aarch64-apple-darwin.tar.xz.sha256) | 99 B | `native/darwin/arm64` |
+| [jnv-aarch64-unknown-linux-gnu.tar.xz](https://github.com/ynqa/jnv/releases/download/v0.7.1/jnv-aarch64-unknown-linux-gnu.tar.xz) | 1.2 MiB | `native/linux/arm64/glibc` |
+| [jnv-aarch64-unknown-linux-gnu.tar.xz.sha256](https://github.com/ynqa/jnv/releases/download/v0.7.1/jnv-aarch64-unknown-linux-gnu.tar.xz.sha256) | 104 B | `native/linux/arm64/glibc` |
+| [jnv-armv7-unknown-linux-gnueabihf.tar.xz](https://github.com/ynqa/jnv/releases/download/v0.7.1/jnv-armv7-unknown-linux-gnueabihf.tar.xz) | 1.1 MiB | `native/linux/arm/glibc` |
+| [jnv-armv7-unknown-linux-gnueabihf.tar.xz.sha256](https://github.com/ynqa/jnv/releases/download/v0.7.1/jnv-armv7-unknown-linux-gnueabihf.tar.xz.sha256) | 108 B | `native/linux/arm/glibc` |
+| [jnv-installer.sh](https://github.com/ynqa/jnv/releases/download/v0.7.1/jnv-installer.sh) | 53.6 KiB | `other` |
+| [jnv-x86_64-apple-darwin.tar.xz](https://github.com/ynqa/jnv/releases/download/v0.7.1/jnv-x86_64-apple-darwin.tar.xz) | 1.2 MiB | `native/darwin/x64` |
+| [jnv-x86_64-apple-darwin.tar.xz.sha256](https://github.com/ynqa/jnv/releases/download/v0.7.1/jnv-x86_64-apple-darwin.tar.xz.sha256) | 98 B | `native/darwin/x64` |
+| [jnv-x86_64-pc-windows-msvc.zip](https://github.com/ynqa/jnv/releases/download/v0.7.1/jnv-x86_64-pc-windows-msvc.zip) | 1.6 MiB | `native/win/x64` |
+| [jnv-x86_64-pc-windows-msvc.zip.sha256](https://github.com/ynqa/jnv/releases/download/v0.7.1/jnv-x86_64-pc-windows-msvc.zip.sha256) | 98 B | `native/win/x64` |
+| [jnv-x86_64-unknown-linux-gnu.tar.xz](https://github.com/ynqa/jnv/releases/download/v0.7.1/jnv-x86_64-unknown-linux-gnu.tar.xz) | 1.4 MiB | `native/linux/x64/glibc` |
+| [jnv-x86_64-unknown-linux-gnu.tar.xz.sha256](https://github.com/ynqa/jnv/releases/download/v0.7.1/jnv-x86_64-unknown-linux-gnu.tar.xz.sha256) | 103 B | `native/linux/x64/glibc` |
+| [jnv-x86_64-unknown-linux-musl.tar.xz](https://github.com/ynqa/jnv/releases/download/v0.7.1/jnv-x86_64-unknown-linux-musl.tar.xz) | 1.5 MiB | `native/linux/x64/musl` |
+| [jnv-x86_64-unknown-linux-musl.tar.xz.sha256](https://github.com/ynqa/jnv/releases/download/v0.7.1/jnv-x86_64-unknown-linux-musl.tar.xz.sha256) | 104 B | `native/linux/x64/musl` |
+| [jnv.rb](https://github.com/ynqa/jnv/releases/download/v0.7.1/jnv.rb) | 2.4 KiB | `other` |
+| [sha256.sum](https://github.com/ynqa/jnv/releases/download/v0.7.1/sha256.sum) | 788 B | `other` |
+| [source.tar.gz](https://github.com/ynqa/jnv/releases/download/v0.7.1/source.tar.gz) | 149.2 KiB | `native/unknown` |
+| [source.tar.gz.sha256](https://github.com/ynqa/jnv/releases/download/v0.7.1/source.tar.gz.sha256) | 81 B | `other` |
 
 ## 流行度
 
@@ -61,4 +85,4 @@ jnv 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T02:58:22Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:00:12Z._

@@ -22,7 +22,31 @@ x install jnv
 - **Latest**: `v0.7.1` (2026-04-01)
 - **Last commit**: 2026-08-20
 - **Assets in release**: 20
-- **Published**: 2026-04-01T12:58:13Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [dist-manifest.json](https://github.com/ynqa/jnv/releases/download/v0.7.1/dist-manifest.json) | 25.1 KiB | `other` |
+| [jnv-aarch64-apple-darwin.tar.xz](https://github.com/ynqa/jnv/releases/download/v0.7.1/jnv-aarch64-apple-darwin.tar.xz) | 1.0 MiB | `native/darwin/arm64` |
+| [jnv-aarch64-apple-darwin.tar.xz.sha256](https://github.com/ynqa/jnv/releases/download/v0.7.1/jnv-aarch64-apple-darwin.tar.xz.sha256) | 99 B | `native/darwin/arm64` |
+| [jnv-aarch64-unknown-linux-gnu.tar.xz](https://github.com/ynqa/jnv/releases/download/v0.7.1/jnv-aarch64-unknown-linux-gnu.tar.xz) | 1.2 MiB | `native/linux/arm64/glibc` |
+| [jnv-aarch64-unknown-linux-gnu.tar.xz.sha256](https://github.com/ynqa/jnv/releases/download/v0.7.1/jnv-aarch64-unknown-linux-gnu.tar.xz.sha256) | 104 B | `native/linux/arm64/glibc` |
+| [jnv-armv7-unknown-linux-gnueabihf.tar.xz](https://github.com/ynqa/jnv/releases/download/v0.7.1/jnv-armv7-unknown-linux-gnueabihf.tar.xz) | 1.1 MiB | `native/linux/arm/glibc` |
+| [jnv-armv7-unknown-linux-gnueabihf.tar.xz.sha256](https://github.com/ynqa/jnv/releases/download/v0.7.1/jnv-armv7-unknown-linux-gnueabihf.tar.xz.sha256) | 108 B | `native/linux/arm/glibc` |
+| [jnv-installer.sh](https://github.com/ynqa/jnv/releases/download/v0.7.1/jnv-installer.sh) | 53.6 KiB | `other` |
+| [jnv-x86_64-apple-darwin.tar.xz](https://github.com/ynqa/jnv/releases/download/v0.7.1/jnv-x86_64-apple-darwin.tar.xz) | 1.2 MiB | `native/darwin/x64` |
+| [jnv-x86_64-apple-darwin.tar.xz.sha256](https://github.com/ynqa/jnv/releases/download/v0.7.1/jnv-x86_64-apple-darwin.tar.xz.sha256) | 98 B | `native/darwin/x64` |
+| [jnv-x86_64-pc-windows-msvc.zip](https://github.com/ynqa/jnv/releases/download/v0.7.1/jnv-x86_64-pc-windows-msvc.zip) | 1.6 MiB | `native/win/x64` |
+| [jnv-x86_64-pc-windows-msvc.zip.sha256](https://github.com/ynqa/jnv/releases/download/v0.7.1/jnv-x86_64-pc-windows-msvc.zip.sha256) | 98 B | `native/win/x64` |
+| [jnv-x86_64-unknown-linux-gnu.tar.xz](https://github.com/ynqa/jnv/releases/download/v0.7.1/jnv-x86_64-unknown-linux-gnu.tar.xz) | 1.4 MiB | `native/linux/x64/glibc` |
+| [jnv-x86_64-unknown-linux-gnu.tar.xz.sha256](https://github.com/ynqa/jnv/releases/download/v0.7.1/jnv-x86_64-unknown-linux-gnu.tar.xz.sha256) | 103 B | `native/linux/x64/glibc` |
+| [jnv-x86_64-unknown-linux-musl.tar.xz](https://github.com/ynqa/jnv/releases/download/v0.7.1/jnv-x86_64-unknown-linux-musl.tar.xz) | 1.5 MiB | `native/linux/x64/musl` |
+| [jnv-x86_64-unknown-linux-musl.tar.xz.sha256](https://github.com/ynqa/jnv/releases/download/v0.7.1/jnv-x86_64-unknown-linux-musl.tar.xz.sha256) | 104 B | `native/linux/x64/musl` |
+| [jnv.rb](https://github.com/ynqa/jnv/releases/download/v0.7.1/jnv.rb) | 2.4 KiB | `other` |
+| [sha256.sum](https://github.com/ynqa/jnv/releases/download/v0.7.1/sha256.sum) | 788 B | `other` |
+| [source.tar.gz](https://github.com/ynqa/jnv/releases/download/v0.7.1/source.tar.gz) | 149.2 KiB | `native/unknown` |
+| [source.tar.gz.sha256](https://github.com/ynqa/jnv/releases/download/v0.7.1/source.tar.gz.sha256) | 81 B | `other` |
 
 ## Popularity
 
@@ -57,8 +81,8 @@ Total: **2,031** lines of code across **23** files in the top 5 languages.
 Install metadata for jnv lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `jnv` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/jnv.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/jnv.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T02:58:21Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:00:12Z._
