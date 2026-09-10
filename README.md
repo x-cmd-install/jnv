@@ -12,6 +12,18 @@ Interactive JSON filter using jq
 x install jnv
 ```
 
+## Code insight
+
+Total: **2,031** lines of code across **23** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Rust | 1,719 | 80 | 206 | 14 |
+| Svg | 196 | 0 | 0 | 2 |
+| Toml | 109 | 118 | 26 | 3 |
+| Dockerfile | 7 | 2 | 4 | 1 |
+| Markdown | 0 | 271 | 107 | 3 |
+
 ## Source
 
 - **Upstream**: <https://github.com/ynqa/jnv>
@@ -22,6 +34,25 @@ x install jnv
 - **Latest**: `v0.7.1` (2026-04-01)
 - **Last commit**: 2026-08-20
 - **Assets in release**: 20
+
+## Popularity
+
+- **Stars**: 6,102 · **Forks**: 76 · **Open issues**: 54 · **Contributors**: 13
+
+## Totals (cumulative)
+
+- **Releases**: 18 · **Merged PRs**: 53 · **Open PRs**: 10 · **Closed issues**: 33 · **Open issues**: 21 · **Commits**: 376
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 1 | 1 | 0 | 0 | 1 |
+| last60d | 2026-07-12 | 0 | 1 | 1 | 0 | 0 | 2 |
+| 90d | 2026-06-12 | 0 | 1 | 9 | 1 | 0 | 2 |
+| last180d | 2026-03-14 | 2 | 5 | 10 | 2 | 1 | 82 |
+| 360d | 2025-09-15 | 3 | 10 | 10 | 4 | 2 | 120 |
+| last720d | 2024-09-20 | 8 | 29 | 10 | 12 | 13 | 263 |
 
 ## Release assets
 
@@ -48,33 +79,15 @@ x install jnv
 | [source.tar.gz](https://github.com/ynqa/jnv/releases/download/v0.7.1/source.tar.gz) | 149.2 KiB | `native/unknown` |
 | [source.tar.gz.sha256](https://github.com/ynqa/jnv/releases/download/v0.7.1/source.tar.gz.sha256) | 81 B | `other` |
 
-## Popularity
+## Distribution status
 
-- **Stars**: 6,102 · **Forks**: 76 · **Open issues**: 54 · **Contributors**: 13
+Reported by **23** distros on [repology.org](https://repology.org/project/jnv). **16** are ✅ on the latest upstream release, **6** are ⚠️ on an older version.
 
-## Totals (cumulative)
-
-- **Releases**: 18 · **Merged PRs**: 53 · **Open PRs**: 10 · **Closed issues**: 33 · **Open issues**: 21 · **Commits**: 376
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 1 | 1 | 0 | 0 | 1 |
-| 90d | 2026-06-12 | 0 | 1 | 9 | 1 | 0 | 2 |
-| 360d | 2025-09-15 | 3 | 10 | 10 | 4 | 2 | 120 |
-
-## Code size
-
-Total: **2,031** lines of code across **23** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Rust | 1,719 | 80 | 206 | 14 |
-| Svg | 196 | 0 | 0 | 2 |
-| Toml | 109 | 118 | 26 | 3 |
-| Dockerfile | 7 | 2 | 4 | 1 |
-| Markdown | 0 | 271 | 107 | 3 |
+| Distro | Version | Status |
+|--------|---------|--------|
+| Arch | `0.7.1` | ✅ latest |
+| Homebrew | `0.7.1` | ✅ latest |
+| Nix unstable | `0.7.1` | ✅ latest |
 
 ## Improve this data
 
@@ -85,4 +98,4 @@ Install metadata for jnv lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:00:12Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T20:14:30Z._
