@@ -37,7 +37,7 @@ Total: **2,031** lines of code across **23** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 6,102 · **Forks**: 76 · **Open issues**: 54 · **Contributors**: 13
+- **Stars**: 6,103 · **Forks**: 76 · **Open issues**: 54 · **Contributors**: 13
 
 ## Totals (cumulative)
 
@@ -98,4 +98,4 @@ Install metadata for jnv lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T02:53:55Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T20:47:02Z._
