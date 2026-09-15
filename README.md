@@ -22,7 +22,7 @@ Total: **2,031** lines of code across **23** files in the top 5 languages.
 | Svg | 196 | 0 | 0 | 2 |
 | Toml | 109 | 118 | 26 | 3 |
 | Dockerfile | 7 | 2 | 4 | 1 |
-| Markdown | 0 | 271 | 107 | 3 |
+| Markdown | 0 | 273 | 108 | 3 |
 
 ## Source
 
@@ -32,27 +32,27 @@ Total: **2,031** lines of code across **23** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.7.1` (2026-04-01)
-- **Last commit**: 2026-08-20
+- **Last commit**: 2026-09-14
 - **Assets in release**: 20
 
 ## Popularity
 
-- **Stars**: 6,103 · **Forks**: 76 · **Open issues**: 54 · **Contributors**: 13
+- **Stars**: 6,105 · **Forks**: 76 · **Open issues**: 54 · **Contributors**: 13
 
 ## Totals (cumulative)
 
-- **Releases**: 18 · **Merged PRs**: 53 · **Open PRs**: 10 · **Closed issues**: 33 · **Open issues**: 21 · **Commits**: 376
+- **Releases**: 18 · **Merged PRs**: 53 · **Open PRs**: 10 · **Closed issues**: 33 · **Open issues**: 21 · **Commits**: 377
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-15 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last60d | 2026-07-16 | 0 | 1 | 1 | 0 | 0 | 2 |
-| 90d | 2026-06-16 | 0 | 1 | 9 | 1 | 0 | 2 |
-| last180d | 2026-03-18 | 2 | 4 | 10 | 2 | 1 | 80 |
-| 360d | 2025-09-19 | 3 | 10 | 10 | 4 | 2 | 120 |
-| last720d | 2024-09-24 | 8 | 29 | 10 | 12 | 13 | 263 |
+| 30d | 2026-08-16 | 0 | 0 | 1 | 0 | 0 | 1 |
+| last60d | 2026-07-17 | 0 | 1 | 1 | 0 | 0 | 3 |
+| 90d | 2026-06-17 | 0 | 1 | 9 | 1 | 0 | 3 |
+| last180d | 2026-03-19 | 2 | 4 | 10 | 2 | 1 | 81 |
+| 360d | 2025-09-20 | 3 | 10 | 10 | 4 | 2 | 121 |
+| last720d | 2024-09-25 | 8 | 28 | 10 | 12 | 13 | 264 |
 
 ## Release assets
 
@@ -88,4 +88,4 @@ Install metadata for jnv lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260914.yml` · 2026-09-14T03:15:14Z._
+_Snapshot: `data/card/260915.yml` · 2026-09-15T03:17:11Z._
