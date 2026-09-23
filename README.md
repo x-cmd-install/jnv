@@ -4,7 +4,7 @@
 
 Interactive JSON filter using jq
 
-[![x-cmd/install — jnv Code Quality Monitoring Repo Card](https://repo.x-cmd.io/jnv.svg)](https://x-cmd.com/install/jnv)
+[![x-cmd/install — jnv Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/jnv.svg)](https://x-cmd.com/install/jnv)
 
 ## Install
 
@@ -41,18 +41,18 @@ Total: **2,031** lines of code across **23** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 18 · **Merged PRs**: 53 · **Open PRs**: 11 · **Closed issues**: 33 · **Open issues**: 21 · **Commits**: 377
+- **Releases**: 18 · **Merged PRs**: 53 · **Open PRs**: 12 · **Closed issues**: 33 · **Open issues**: 21 · **Commits**: 377
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 0 | 2 | 0 | 0 | 1 |
-| last60d | 2026-07-24 | 0 | 1 | 2 | 0 | 0 | 2 |
-| 90d | 2026-06-24 | 0 | 1 | 4 | 0 | 0 | 3 |
-| last180d | 2026-03-26 | 1 | 4 | 11 | 2 | 1 | 3 |
-| 360d | 2025-09-27 | 3 | 10 | 11 | 4 | 2 | 121 |
-| last720d | 2024-10-02 | 7 | 28 | 11 | 12 | 13 | 262 |
+| 30d | 2026-08-24 | 0 | 0 | 3 | 0 | 0 | 1 |
+| last60d | 2026-07-25 | 0 | 1 | 3 | 0 | 0 | 2 |
+| 90d | 2026-06-25 | 0 | 1 | 3 | 0 | 0 | 3 |
+| last180d | 2026-03-27 | 1 | 4 | 12 | 2 | 1 | 3 |
+| 360d | 2025-09-28 | 3 | 10 | 12 | 4 | 2 | 121 |
+| last720d | 2024-10-03 | 7 | 28 | 12 | 12 | 13 | 262 |
 
 ## Release assets
 
@@ -88,4 +88,4 @@ Install metadata for jnv lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T03:11:50Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T03:12:28Z._
