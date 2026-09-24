@@ -32,27 +32,27 @@ Total: **2,031** lines of code across **23** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.7.1` (2026-04-01)
-- **Last commit**: 2026-09-14
+- **Last commit**: 2026-09-24
 - **Assets in release**: 20
 
 ## Popularity
 
-- **Stars**: 6,116 · **Forks**: 76 · **Open issues**: 54 · **Contributors**: 13
+- **Stars**: 6,117 · **Forks**: 76 · **Open issues**: 54 · **Contributors**: 14
 
 ## Totals (cumulative)
 
-- **Releases**: 18 · **Merged PRs**: 53 · **Open PRs**: 12 · **Closed issues**: 33 · **Open issues**: 21 · **Commits**: 377
+- **Releases**: 18 · **Merged PRs**: 54 · **Open PRs**: 11 · **Closed issues**: 33 · **Open issues**: 21 · **Commits**: 379
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-24 | 0 | 0 | 3 | 0 | 0 | 1 |
-| last60d | 2026-07-25 | 0 | 1 | 3 | 0 | 0 | 2 |
-| 90d | 2026-06-25 | 0 | 1 | 3 | 0 | 0 | 3 |
-| last180d | 2026-03-27 | 1 | 4 | 12 | 2 | 1 | 3 |
-| 360d | 2025-09-28 | 3 | 10 | 12 | 4 | 2 | 121 |
-| last720d | 2024-10-03 | 7 | 28 | 12 | 12 | 13 | 262 |
+| 30d | 2026-08-25 | 0 | 1 | 1 | 0 | 0 | 2 |
+| last60d | 2026-07-26 | 0 | 2 | 2 | 0 | 0 | 3 |
+| 90d | 2026-06-26 | 0 | 2 | 2 | 0 | 0 | 4 |
+| last180d | 2026-03-28 | 1 | 5 | 11 | 2 | 1 | 4 |
+| 360d | 2025-09-29 | 3 | 11 | 11 | 4 | 2 | 122 |
+| last720d | 2024-10-04 | 7 | 29 | 11 | 12 | 13 | 264 |
 
 ## Release assets
 
@@ -88,4 +88,4 @@ Install metadata for jnv lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260923.yml` · 2026-09-23T03:12:28Z._
+_Snapshot: `data/card/260924.yml` · 2026-09-24T03:02:09Z._
