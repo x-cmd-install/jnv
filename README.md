@@ -37,7 +37,7 @@ Total: **2,031** lines of code across **23** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 6,121 · **Forks**: 77 · **Open issues**: 54 · **Contributors**: 14
+- **Stars**: 6,125 · **Forks**: 78 · **Open issues**: 54 · **Contributors**: 14
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **2,031** lines of code across **23** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-06 | 0 | 1 | 1 | 0 | 0 | 2 |
-| last60d | 2026-08-07 | 0 | 2 | 2 | 0 | 0 | 3 |
-| 90d | 2026-07-08 | 0 | 2 | 2 | 0 | 0 | 4 |
-| last180d | 2026-04-09 | 0 | 2 | 10 | 1 | 0 | 4 |
-| 360d | 2025-10-11 | 3 | 11 | 11 | 4 | 2 | 122 |
-| last720d | 2024-10-16 | 7 | 29 | 11 | 12 | 13 | 264 |
+| 30d | 2026-09-07 | 0 | 1 | 1 | 0 | 0 | 2 |
+| last60d | 2026-08-08 | 0 | 2 | 2 | 0 | 0 | 3 |
+| 90d | 2026-07-09 | 0 | 2 | 2 | 0 | 0 | 4 |
+| last180d | 2026-04-10 | 0 | 2 | 10 | 1 | 0 | 4 |
+| 360d | 2025-10-12 | 3 | 11 | 11 | 4 | 2 | 122 |
+| last720d | 2024-10-17 | 7 | 29 | 11 | 12 | 13 | 264 |
 
 ## Release assets
 
@@ -88,4 +88,4 @@ Install metadata for jnv lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261006.yml` · 2026-10-06T04:44:36Z._
+_Snapshot: `data/card/261007.yml` · 2026-10-07T04:10:52Z._
