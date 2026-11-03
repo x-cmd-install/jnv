@@ -1,21 +1,27 @@
-- repo: manjaro_unstable
-  subrepo: extra
+- repo: homebrew
   srcname: jnv
-  binname: jnv
-  visiblename: jnv
-  version: 0.7.1
-  origversion: 0.7.1-1
-  status: newest
-  summary: Interactive JSON filter using jq
-  licenses:
-    - MIT
-- repo: scoop
-  subrepo: main
-  binname: jnv
   visiblename: jnv
   version: 0.7.1
   origversion: null
   status: newest
+  summary: Interactive JSON filter using jq
+- repo: homebrew
+  srcname: jnv
+  visiblename: jnv
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Interactive JSON filter using jq
+- repo: nix_stable_25_11
+  srcname: jnv
+  visiblename: jnv
+  version: 0.6.1
+  origversion: null
+  status: outdated
+  summary: Interactive JSON filter using jq
+  maintainers:
+    - hi@neal.codes
+    - nahamu@gmail.com
   licenses:
     - MIT
 - repo: altsisyphus
@@ -79,20 +85,6 @@
   origversion: null
   status: outdated
   summary: JSON navigator and interactive jq filter editor
-- repo: homebrew
-  srcname: jnv
-  visiblename: jnv
-  version: 0.7.1
-  origversion: null
-  status: newest
-  summary: Interactive JSON filter using jq
-- repo: homebrew
-  srcname: jnv
-  visiblename: jnv
-  version: HEAD
-  origversion: null
-  status: rolling
-  summary: Interactive JSON filter using jq
 - repo: macports
   srcname: textproc/jnv
   binname: jnv
@@ -107,18 +99,7 @@
     - MIT
   categories:
     - textproc
-- repo: manjaro_stable
-  subrepo: extra
-  srcname: jnv
-  binname: jnv
-  visiblename: jnv
-  version: 0.7.1
-  origversion: 0.7.1-1
-  status: newest
-  summary: Interactive JSON filter using jq
-  licenses:
-    - MIT
-- repo: manjaro_testing
+- repo: manjaro_unstable
   subrepo: extra
   srcname: jnv
   binname: jnv
@@ -157,18 +138,6 @@
   srcname: jnv
   visiblename: jnv
   version: 0.6.0
-  origversion: null
-  status: outdated
-  summary: Interactive JSON filter using jq
-  maintainers:
-    - hi@neal.codes
-    - nahamu@gmail.com
-  licenses:
-    - MIT
-- repo: nix_stable_25_11
-  srcname: jnv
-  visiblename: jnv
-  version: 0.6.1
   origversion: null
   status: outdated
   summary: Interactive JSON filter using jq
@@ -248,3 +217,12 @@
     - nonaka@netbsd.org
   categories:
     - textproc
+- repo: scoop
+  subrepo: main
+  binname: jnv
+  visiblename: jnv
+  version: 0.7.1
+  origversion: null
+  status: newest
+  licenses:
+    - MIT
