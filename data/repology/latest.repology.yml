@@ -1,15 +1,15 @@
-- repo: nix_stable_25_11
-  srcname: jnv
-  visiblename: jnv
-  version: 0.6.1
+- repo: pkgsrc_2026_3
+  srcname: textproc/jnv
+  binname: jnv
+  visiblename: textproc/jnv
+  version: 0.7.1
   origversion: null
-  status: outdated
-  summary: Interactive JSON filter using jq
+  status: newest
+  summary: Interactive JSON viewer and jq filter editor
   maintainers:
-    - hi@neal.codes
-    - nahamu@gmail.com
-  licenses:
-    - MIT
+    - nonaka@netbsd.org
+  categories:
+    - textproc
 - repo: altsisyphus
   srcname: jnv
   binnames:
@@ -99,6 +99,28 @@
     - MIT
   categories:
     - textproc
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: jnv
+  binname: jnv
+  visiblename: jnv
+  version: 0.7.1
+  origversion: 0.7.1-1
+  status: newest
+  summary: Interactive JSON filter using jq
+  licenses:
+    - MIT
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: jnv
+  binname: jnv
+  visiblename: jnv
+  version: 0.7.1
+  origversion: 0.7.1-1
+  status: newest
+  summary: Interactive JSON filter using jq
+  licenses:
+    - MIT
 - repo: manjaro_unstable
   subrepo: extra
   srcname: jnv
@@ -146,6 +168,18 @@
     - nahamu@gmail.com
   licenses:
     - MIT
+- repo: nix_stable_25_11
+  srcname: jnv
+  visiblename: jnv
+  version: 0.6.1
+  origversion: null
+  status: outdated
+  summary: Interactive JSON filter using jq
+  maintainers:
+    - hi@neal.codes
+    - nahamu@gmail.com
+  licenses:
+    - MIT
 - repo: nix_stable_26_05
   srcname: jnv
   visiblename: jnv
@@ -182,18 +216,6 @@
   licenses:
     - MIT
 - repo: pkgsrc_2026_2
-  srcname: textproc/jnv
-  binname: jnv
-  visiblename: textproc/jnv
-  version: 0.7.1
-  origversion: null
-  status: newest
-  summary: Interactive JSON viewer and jq filter editor
-  maintainers:
-    - nonaka@netbsd.org
-  categories:
-    - textproc
-- repo: pkgsrc_2026_3
   srcname: textproc/jnv
   binname: jnv
   visiblename: textproc/jnv
