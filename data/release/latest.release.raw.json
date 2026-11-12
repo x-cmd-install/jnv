@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 25684,
       "digest": "sha256:757d73a518da69736d0e2a1d070311de53275ba04901823437dfc2f167e0275e",
-      "download_count": 10,
+      "download_count": 11,
       "created_at": "2026-04-01T12:58:10Z",
       "updated_at": "2026-04-01T12:58:10Z",
       "browser_download_url": "https://github.com/ynqa/jnv/releases/download/v0.7.1/dist-manifest.json"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 54893,
       "digest": "sha256:e7ce58423d5a6fac2af99572f024bc8e3ffce1329809d5452ce2720de34183ee",
-      "download_count": 56,
+      "download_count": 61,
       "created_at": "2026-04-01T12:58:11Z",
       "updated_at": "2026-04-01T12:58:11Z",
       "browser_download_url": "https://github.com/ynqa/jnv/releases/download/v0.7.1/jnv-installer.sh"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 1652596,
       "digest": "sha256:f76a635add18586c9473329fb37d2dca831b80d8062dccb4683f69a3bb3de5e6",
-      "download_count": 1255,
+      "download_count": 1269,
       "created_at": "2026-04-01T12:58:11Z",
       "updated_at": "2026-04-01T12:58:12Z",
       "browser_download_url": "https://github.com/ynqa/jnv/releases/download/v0.7.1/jnv-x86_64-pc-windows-msvc.zip"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 1471832,
       "digest": "sha256:4c3e7368339a2ecbdb4d2bfe2c3ec5f6fc36810bed95425fe05a65200fae8d15",
-      "download_count": 3481,
+      "download_count": 3499,
       "created_at": "2026-04-01T12:58:11Z",
       "updated_at": "2026-04-01T12:58:12Z",
       "browser_download_url": "https://github.com/ynqa/jnv/releases/download/v0.7.1/jnv-x86_64-unknown-linux-gnu.tar.xz"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 103,
       "digest": "sha256:dbb348962ee2afd80e80108db889dac6c780b8f89add524cc814fedcfaf16a21",
-      "download_count": 94,
+      "download_count": 99,
       "created_at": "2026-04-01T12:58:12Z",
       "updated_at": "2026-04-01T12:58:12Z",
       "browser_download_url": "https://github.com/ynqa/jnv/releases/download/v0.7.1/jnv-x86_64-unknown-linux-gnu.tar.xz.sha256"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 1546072,
       "digest": "sha256:43bc90e8875f10790e2e69adba5dcc48cff393d0ebc59b9947449feb349b42e8",
-      "download_count": 4649,
+      "download_count": 4697,
       "created_at": "2026-04-01T12:58:12Z",
       "updated_at": "2026-04-01T12:58:12Z",
       "browser_download_url": "https://github.com/ynqa/jnv/releases/download/v0.7.1/jnv-x86_64-unknown-linux-musl.tar.xz"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 788,
       "digest": "sha256:4d4183d942105be5bf736b392034776c9670adeafa913adb541ac17497f08801",
-      "download_count": 7,
+      "download_count": 9,
       "created_at": "2026-04-01T12:58:12Z",
       "updated_at": "2026-04-01T12:58:12Z",
       "browser_download_url": "https://github.com/ynqa/jnv/releases/download/v0.7.1/sha256.sum"
