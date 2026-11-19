@@ -1,15 +1,51 @@
-- repo: pkgsrc_2026_3
+- repo: nix_stable_24_05
+  srcname: jnv
+  visiblename: jnv
+  version: 0.2.2
+  origversion: null
+  status: outdated
+  summary: Interactive JSON filter using jq
+  maintainers:
+    - hi@neal.codes
+    - nahamu@gmail.com
+  licenses:
+    - MIT
+- repo: macports
   srcname: textproc/jnv
   binname: jnv
-  visiblename: textproc/jnv
+  visiblename: jnv
   version: 0.7.1
   origversion: null
   status: newest
-  summary: Interactive JSON viewer and jq filter editor
+  summary: interactive JSON filter using jq
   maintainers:
-    - nonaka@netbsd.org
+    - herbygillot@github
+  licenses:
+    - MIT
   categories:
     - textproc
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: jnv
+  binname: jnv
+  visiblename: jnv
+  version: 0.7.1
+  origversion: 0.7.1-1
+  status: newest
+  summary: Interactive JSON filter using jq
+  licenses:
+    - MIT
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: jnv
+  binname: jnv
+  visiblename: jnv
+  version: 0.7.1
+  origversion: 0.7.1-1
+  status: newest
+  summary: Interactive JSON filter using jq
+  licenses:
+    - MIT
 - repo: altsisyphus
   srcname: jnv
   binnames:
@@ -85,42 +121,6 @@
   origversion: null
   status: rolling
   summary: Interactive JSON filter using jq
-- repo: macports
-  srcname: textproc/jnv
-  binname: jnv
-  visiblename: jnv
-  version: 0.7.1
-  origversion: null
-  status: newest
-  summary: interactive JSON filter using jq
-  maintainers:
-    - herbygillot@github
-  licenses:
-    - MIT
-  categories:
-    - textproc
-- repo: manjaro_stable
-  subrepo: extra
-  srcname: jnv
-  binname: jnv
-  visiblename: jnv
-  version: 0.7.1
-  origversion: 0.7.1-1
-  status: newest
-  summary: Interactive JSON filter using jq
-  licenses:
-    - MIT
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: jnv
-  binname: jnv
-  visiblename: jnv
-  version: 0.7.1
-  origversion: 0.7.1-1
-  status: newest
-  summary: Interactive JSON filter using jq
-  licenses:
-    - MIT
 - repo: manjaro_unstable
   subrepo: extra
   srcname: jnv
@@ -130,18 +130,6 @@
   origversion: 0.7.1-1
   status: newest
   summary: Interactive JSON filter using jq
-  licenses:
-    - MIT
-- repo: nix_stable_24_05
-  srcname: jnv
-  visiblename: jnv
-  version: 0.2.2
-  origversion: null
-  status: outdated
-  summary: Interactive JSON filter using jq
-  maintainers:
-    - hi@neal.codes
-    - nahamu@gmail.com
   licenses:
     - MIT
 - repo: nix_stable_24_11
@@ -216,6 +204,18 @@
   licenses:
     - MIT
 - repo: pkgsrc_2026_2
+  srcname: textproc/jnv
+  binname: jnv
+  visiblename: textproc/jnv
+  version: 0.7.1
+  origversion: null
+  status: newest
+  summary: Interactive JSON viewer and jq filter editor
+  maintainers:
+    - nonaka@netbsd.org
+  categories:
+    - textproc
+- repo: pkgsrc_2026_3
   srcname: textproc/jnv
   binname: jnv
   visiblename: textproc/jnv
